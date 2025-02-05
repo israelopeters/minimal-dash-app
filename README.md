@@ -1,1 +1,2 @@
-Practice repository for building ML/AI data apps using Dash
+#Dash Practice
+## Practice repository for building ML/AI data apps using Dash
